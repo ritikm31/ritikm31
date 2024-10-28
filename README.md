@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **malikritik31@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](file:///F:/Interview%20Stuff/Ritik's%20Resume.pdf)**
+- 📄 Know about my experiences [file:///F:/Interview%20Stuff/Ritik's%20Resume.pdf](file:///F:/Interview%20Stuff/Ritik's%20Resume.pdf)
 
 - ⚡ Fun fact **Always learning, always coding!**
 
