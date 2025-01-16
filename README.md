@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikm31&show_icons=true&locale=en" alt="ritikm31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikm31&" alt="ritikm31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikm31&" /></p>
 
 
  <summary><b>GSSOC(24) Badges</b></summary><br>
