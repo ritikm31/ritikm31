@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **malikritik31@gmail.com**
 
-- ⚡ Fun fact **Always learning, always coding!**
+- ⚡Fact **Failure is the default state**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
